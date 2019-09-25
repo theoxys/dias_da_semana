@@ -24,7 +24,7 @@ DaySelector(
 	value: null,
 	onChange: (value) {},
 	color: Colors.white,
-	mode: DaySelector.modeFull,
+	mode: DaySelector.full,
 )
 ```
 This project is a starting point for a Dart
