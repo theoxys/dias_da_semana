@@ -1,5 +1,7 @@
 # dias_da_semana
 
+![Widget Gif](https://github.com/theoxys/dias_da_semana/blob/master/videogit%20(1).gif "Widget Gif")
+
 Widget que permite de maneira facil selecionar os dias da semana.
 Baseado no widget DaySelector (https://github.com/jaumard/day_selector )
 
